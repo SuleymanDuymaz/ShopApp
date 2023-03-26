@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ShopApp\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\sduym\\Source\\Repos\\ShopApp\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\sduym\\source\\repos\\ShopApp\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\sduym\\Source\\Repos\\ShopApp\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sduym\\source\\repos\\ShopApp\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\sduym\\Source\\Repos\\ShopApp\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,6 +1,5 @@
 C:\Users\sduym\source\repos\ShopApp\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
 C:\Users\sduym\source\repos\ShopApp\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
-C:\Users\sduym\source\repos\ShopApp\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
 C:\Users\sduym\source\repos\ShopApp\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
 C:\Users\sduym\source\repos\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
 C:\Users\sduym\source\repos\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
@@ -15,3 +14,4 @@ C:\Users\sduym\source\repos\ShopApp\BusinessLayer\bin\Debug\net5.0\EntityLayer.d
 C:\Users\sduym\source\repos\ShopApp\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\sduym\source\repos\ShopApp\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
 C:\Users\sduym\source\repos\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\sduym\Source\Repos\ShopApp\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll

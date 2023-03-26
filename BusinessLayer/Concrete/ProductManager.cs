@@ -20,7 +20,7 @@ namespace BusinessLayer.Concrete
 
         public List<Product> Get()
         {
-            return _productDal.GetAll(p=>p.ProductID==77);
+            return _productDal.GetAll();
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using BusinessLayer.Concrete;
 using DataAccessLayer.Concrete;
+using DataAccessLayer.Concrete.EntityFramework;
 using System;
 
 namespace ConsoleUI

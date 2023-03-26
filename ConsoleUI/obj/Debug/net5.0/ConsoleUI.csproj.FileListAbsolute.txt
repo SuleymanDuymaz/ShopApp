@@ -3,7 +3,6 @@ C:\Users\sduym\source\repos\ShopApp\ConsoleUI\bin\Debug\net5.0\ConsoleUI.deps.js
 C:\Users\sduym\source\repos\ShopApp\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.json
 C:\Users\sduym\source\repos\ShopApp\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.dev.json
 C:\Users\sduym\source\repos\ShopApp\ConsoleUI\bin\Debug\net5.0\ConsoleUI.dll
-C:\Users\sduym\source\repos\ShopApp\ConsoleUI\bin\Debug\net5.0\ref\ConsoleUI.dll
 C:\Users\sduym\source\repos\ShopApp\ConsoleUI\bin\Debug\net5.0\ConsoleUI.pdb
 C:\Users\sduym\source\repos\ShopApp\ConsoleUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\sduym\source\repos\ShopApp\ConsoleUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
@@ -69,3 +68,4 @@ C:\Users\sduym\source\repos\ShopApp\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
 C:\Users\sduym\source\repos\ShopApp\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache
 C:\Users\sduym\source\repos\ShopApp\ConsoleUI\bin\Debug\net5.0\Humanizer.dll
 C:\Users\sduym\source\repos\ShopApp\ConsoleUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sduym\Source\Repos\ShopApp\ConsoleUI\obj\Debug\net5.0\refint\ConsoleUI.dll

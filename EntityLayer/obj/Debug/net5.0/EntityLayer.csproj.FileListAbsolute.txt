@@ -1,6 +1,5 @@
 C:\Users\sduym\source\repos\ShopApp\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
 C:\Users\sduym\source\repos\ShopApp\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
-C:\Users\sduym\source\repos\ShopApp\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
 C:\Users\sduym\source\repos\ShopApp\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
 C:\Users\sduym\source\repos\ShopApp\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
 C:\Users\sduym\source\repos\ShopApp\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,3 +9,4 @@ C:\Users\sduym\source\repos\ShopApp\EntityLayer\obj\Debug\net5.0\EntityLayer.csp
 C:\Users\sduym\source\repos\ShopApp\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
 C:\Users\sduym\source\repos\ShopApp\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
 C:\Users\sduym\source\repos\ShopApp\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\sduym\Source\Repos\ShopApp\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
