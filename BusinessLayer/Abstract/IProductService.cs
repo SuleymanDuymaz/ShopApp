@@ -9,5 +9,6 @@ namespace BusinessLayer.Abstract
     public interface IProductService
     {
         List<Product> Get();
+        Product GetById(int id);
     }
 }

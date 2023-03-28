@@ -1,4 +1,5 @@
 ﻿using BusinessLayer.Abstract;
+using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Presentation.Models;
@@ -19,16 +20,25 @@ namespace Presentation.Controllers
             _logger = logger;
             _productService = productService;
         }
-
+        
         public IActionResult Index()
         {
             var result=_productService.Get();
             return View(result);
         }
 
-        public IActionResult Privacy()
+        public IActionResult Details(int? id)
         {
-            return View();
+            if (id==null)
+            {
+                return NotFound();
+            }
+            Product product = _productService.GetById((int)id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            return View(product);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

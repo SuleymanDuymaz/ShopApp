@@ -20,7 +20,12 @@ namespace BusinessLayer.Concrete
 
         public List<Product> Get()
         {
-            return _productDal.GetAll();
+            return _productDal.List();
+        }
+
+        public Product GetById(int id)
+        {
+            return _productDal.GetById(id);
         }
     }
 }

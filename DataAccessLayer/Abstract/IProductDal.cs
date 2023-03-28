@@ -8,9 +8,8 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface IProductDal
+    public interface IProductDal:IGenericRepository<Product>
     {
-        List<Product> GetAll();
-        List<Product> GetAll(Expression<Func<Product, bool>> filter);
+
     }
 }
